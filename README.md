@@ -26,15 +26,13 @@
 ## Organization
 
 
-| Team | Lead | Mitglieder
+| Team | Lead | Mitglieder|
 | ------------- | ---------------- | ------ |
-| Business      | Baha Jamous      | Dilara Erdem, Valentin Trettel, Claudia Hillebrand |
-| Frontend      | Sebastian Baar   | Sebastian Wegscheider, Maxim Wandrowski, Sebastian Soherr (Android), Merthan Erdem |
-| Backend       | Vinzenz Sinapius | Kialian Gaß, Marcel Pollak, Sigmund Zhang, Stephan Ferenz |
-| DevOps        | Vinzenz Sinapius | -- |
-| Gesamtorga  | Markus Kling     | Paul Hendrik |
-| Devpost       | Merthan Erdem    | -- |
-| Kommunikation | Baha Jamous      | Miriam Beier |
+| Samip Raut            |                             | ------ |
+| Andreas Jaeger        |                             | ------ |
+| Maximilian Weinhold   |                             | ------ |
+| Carlos Revilla Portero|                             | ------ |
+
 
 
 ## Team
