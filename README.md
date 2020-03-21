@@ -1,5 +1,6 @@
+```
 ![](https://wirvsvirushackathon.org/wp-content/uploads/2020/03/Hackathon_slogan_wei%C3%9F.png)
-
+```
 # Blockchain for CORONA test assignment Optimization
 
 **Maintain a distributed ledger among several parties (doctors/hospitals/laborotaries/Health center) that sets the priority on which cases to be tested based on severity of the cases.**
