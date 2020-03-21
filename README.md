@@ -1,5 +1,5 @@
 
-![](https://www.bundesregierung.de/resource/image/1732104/16x9/990/557/1ad5ccce1a8373eda6e83924a42944f9/HX/2020-03-18-hackathon.jpg)
+![](https://images.typeform.com/images/mTqz8YJei7p8/image/default)
 
 # Blockchain for CORONA test assignment Optimization
 
